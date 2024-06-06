@@ -5,4 +5,4 @@ seaborn==0.11.1
 pandas==1.1.5
 scipy==1.4.1
 tensorflow==2.4.0
-keras==2.4.3
+keras==2.4.3keras==2.4.3keras==2.4.3keras==2.4.3keras==2.4.3
